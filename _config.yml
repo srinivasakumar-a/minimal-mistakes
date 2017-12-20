@@ -9,18 +9,18 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en"
-title                    : "||Tat-Tuvm-Asi||"
+title                    : "||Tat-Tuvm-Asi||" # (edited by sriniak)
 title_separator          : "-"
-name                     : "Srinivasa Kumar"
-description              : "Thoughts on SAP, Fashion and Technology trends, Data Science, Startups and 'Life as it comes...'"
+name                     : "Srinivasa Kumar" # (edited by sriniak)
+description              : "Thoughts on SAP, Fashion and Technology trends, Data Science, Startups and 'Life as it comes...'" # (edited by sriniak)
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/Images/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/Images/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png" (edited by sriniak)
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "staticman_v2"   # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom" (edited by sriniak)
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
+  branch                 : "master"   # "master" (edited by sriniak)
   commitMessage          : # "New comment."
   filename               : # comment-{@timestamp}
   format                 : # "yml"
