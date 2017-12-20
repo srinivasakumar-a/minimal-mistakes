@@ -31,16 +31,16 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : "master"   # "master" (edited by sriniak)
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 :  "yml"
+  commitMessage          : #"New comment."
+  filename               : #comment-{@timestamp}
+  format                 :  #"yml"
   moderation             : # true
-  path                   :  "/_data/comments/{options.slug}" (default)
-  requiredFields         :  ['name', 'email', 'message']
+  path                   :  #"/_data/comments/{options.slug}" (default)
+  requiredFields         :  #['name', 'email', 'message']
   transforms:
-    email                :  "md5"
+    email                :  #"md5"
   generatedFields:
     date:
       type               : # "date"
@@ -66,7 +66,7 @@ facebook:
   username               : "sriniak"
   app_id                 :
   publisher              :
-og_image                 : "/assets/Images/OG.jpeg" # Open Graph/Twitter default site image
+og_image                 : #"/assets/Images/OG.jpeg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
