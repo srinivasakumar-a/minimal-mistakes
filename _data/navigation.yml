@@ -3,10 +3,10 @@ main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/about/
   - title: "Posts"
-    url: /year-archive/
+    url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/posts/
   - title: "My CV"
-    url: /CV/
+    url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/cv/
   - title: "Sitemap"
-    url: /sitemap/
+    url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/sitemap/
