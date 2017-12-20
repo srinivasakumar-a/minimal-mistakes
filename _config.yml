@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Srinivasa Kumar"
-  avatar           : "/assets/Srini_Canon5D.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/Images/Srini_Canon5D.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Bengaluru, India"
   email            : "srinivasakumar.a@live.com"
