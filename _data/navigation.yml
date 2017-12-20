@@ -2,11 +2,11 @@
 main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "ABOUT"
     url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/about/
-  - title: "Posts"
+  - title: "POSTS"
     url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/posts/
   - title: "My CV"
     url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/cv/
-  - title: "Sitemap"
+  - title: "SITEMAP"
     url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/sitemap/
