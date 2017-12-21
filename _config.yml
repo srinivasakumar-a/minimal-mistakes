@@ -66,7 +66,7 @@ facebook:
   username               : "sriniak"
   app_id                 :
   publisher              :
-og_image                 : #"/assets/Images/OG.jpeg" # Open Graph/Twitter default site image
+og_image                 : #"/assets/images/OG.jpeg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Srinivasa Kumar"
-  avatar           : "/assets/Images/Srini_Canon5D.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Srini_Canon5D.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Bengaluru, India"
   email            : "srinivasakumar.a@live.com"

@@ -7,7 +7,7 @@ main:
     description: "Know more about me"
   - title: "ARTICLES"
     url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/posts/
-  - title: "My CV"
-    url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/cv/
+#  - title: "My CV"
+#    url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/cv/
 #  - title: "CONTACTS"
 #    url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/sitemap/
