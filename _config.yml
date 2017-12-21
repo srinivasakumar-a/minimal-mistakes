@@ -252,13 +252,8 @@ defaults:
       comments: true # true
       share: true
       related: true
-
-  include: ["_pages"]
-
-  # Defaults for Pages
-  defaults:
-    # _pages
-    - scope:
+  # _pages
+  - scope:
       path: ""
       type: pages
     values:
