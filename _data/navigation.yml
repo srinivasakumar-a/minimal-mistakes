@@ -6,7 +6,8 @@ main:
     url: /about/ #  https://srinivasakumar-a.github.io/minimal-mistakes/_pages/about.md
     description: "Know more about me"
   - title: "ARTICLES"
-    url: https://srinivasakumar-a.github.io/minimal-mistakes/_posts/
+    url: /_posts/  # https://srinivasakumar-a.github.io/minimal-mistakes/posts/
+    description: "Latest Posts"
 #  - title: "My CV"
 #    url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/cv/
 #  - title: "CONTACTS"
