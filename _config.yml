@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "LEARNING CURVE" # (edited by sriniak)
 title_separator          : "-"
 name                     : "Srinivasa Kumar" # (edited by sriniak)
-description              : "Thoughts on SAP, Fashion and Technology trends, Data Science, Startups and 'Life as it comes...'" # (edited by sriniak)
+description              : "Thoughts on SAP, Fashion, Technology Trends, Data Science, Startups and 'Life-as-it-comes...'" # (edited by sriniak)
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Srinivasa Kumar"
   avatar           : "/assets/images/Srini_Canon5D.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Thoughts on SAP, Fashion, Technology Trends, Data Science, Startups and 'Life-as-it-comes...'"
   location         : "Bengaluru, India"
   email            : "srinivasakumar.a@live.com"
   uri              :
