@@ -14,6 +14,8 @@ main:
   - title: "TALKS"
     url: /Talks/      #Include links for SAP FMS and DATA Science COURSES
     description: "Talk with Srini"
+ - title: "Terms &amp; Privacy Policy"
+    url: /terms/    
 #    url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/cv/
 #  - title: "CONTACTS"
 #    url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/sitemap/
