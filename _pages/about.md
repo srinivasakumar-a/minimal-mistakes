@@ -5,7 +5,7 @@ tags:
   - about
 comments: false
 permalink: /about/
-published: false
+published: true
 ---
 
 **Professional Summary:**
