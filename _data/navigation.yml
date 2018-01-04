@@ -8,12 +8,12 @@ main:
   - title: "POSTS"
     url: /year-archive/  # https://srinivasakumar-a.github.io/minimal-mistakes/posts/
     description: "Latest Posts"
-  - title: "LEARN"
-    url: /Learn/      #Include links for SAP FMS and DATA Science COURSES
-    description: "Learn SAP FMS, DATA Science"
-  - title: "TALKS"
-    url: /Talks/      #Include links for SAP FMS and DATA Science COURSES
-    description: "Talk with Srini"
+#  - title: "LEARN"
+#    url: /Learn/      #Include links for SAP FMS and DATA Science COURSES
+#    description: "Learn SAP FMS, DATA Science"
+#  - title: "TALKS"
+#    url: /Talks/      #Include links for SAP FMS and DATA Science COURSES
+#    description: "Talk with Srini"
 #  - title: "Terms and Privacy Policy"
 #    url: /terms/
 #    url: https://srinivasakumar-a.github.io/minimal-mistakes/docs/cv/
