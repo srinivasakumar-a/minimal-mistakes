@@ -5,7 +5,7 @@ tags:
   - about
 comments: false
 permalink: /about/
-published: true
+published: false
 ---
 
 I am an **SAP Technology Professional** with 14+ years of experience in handling SAP Implementation, Global Roll-outs, Support and Maintenance projects including roles of Solution Architect, Business Development, Pre-Sales (RFP/Bid Preparation), Delivery & Operations Management across various Industry verticals such as **Fashion/Retail**, **Oil & Gas**, Food & Beverages, Hi-Tech Manufacturing, Pharmaceuticals and Automobile Global Clients in an Onsite-IDC environment. 
