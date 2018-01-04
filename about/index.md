@@ -1,8 +1,7 @@
 ---
 layout: single
 title: About Me
-tags:
-  - about
+tags: [about]
 comments: false
 permalink: /about/
 published: true
@@ -10,7 +9,7 @@ published: true
 
 **Professional Summary:**
 
-I am an **SAP Technology Professional** with 14+ years of experience in handling SAP Implementation, Global Roll-outs, Support and Maintenance projects including roles of Solution Architect, Business Development, Pre-Sales (RFP/Bid Preparation), Delivery & Operations Management across various Industry verticals such as **Fashion/Retail**, **Oil & Gas**, Food & Beverages, Hi-Tech Manufacturing, Pharmaceuticals and Automobile Global Clients in an Onsite-IDC environment. 
+I am an **SAP Technology Professional** with 14+ years of experience in handling SAP Implementation, Global Roll-outs, Support and Maintenance projects including roles of Solution Architect, Business Development, Pre-Sales (RFP/Bid Preparation), Delivery & Operations Management across various Industry verticals such as **Fashion/Retail**, **Oil & Gas**, Food & Beverages, Hi-Tech Manufacturing, Pharmaceuticals and Automobile Global Clients in an Onsite-IDC environment.
 
 •	Currently working as SAP FMS Solution Consultant at **Accenture Solutions Pvt Ltd**, Bengaluru from _Oct 2010 till date_ (~7 Years) and have occupied various roles of **SAP FMS Solution Consultant**, Project Manager, Techno-Functional Consultant from Offshore. Have Rich experience in Fashion/Retail Clients, Food & Beverages, Consumer Goods and Services, Pharmaceuticals and Iron Ore & Steel Verticals.
 
@@ -20,4 +19,4 @@ I am an **SAP Technology Professional** with 14+ years of experience in handling
 
 •	Worked as Pre-Sales Engineer at Twenty First Century Offices Pvt. Ltd., Bangalore from Jun 2002 to March 2004.
 
-**Personal Summary** 
+**Personal Summary**
