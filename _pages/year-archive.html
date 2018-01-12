@@ -5,6 +5,7 @@ title: "Posts by Year"
 author_profile: true
 ---
 
+<<<<<<< HEAD:_pages/year-archive.html
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
@@ -15,3 +16,12 @@ author_profile: true
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+=======
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
+{% for year in postsByYear %}
+  <h2 id="{{ year.name | slugify }}" class="archive__subtitle">{{ year.name }}</h2>
+  {% for post in year.items %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
+>>>>>>> upstream/master:test/_pages/year-archive.html
