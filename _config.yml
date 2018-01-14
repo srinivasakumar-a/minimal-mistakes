@@ -13,7 +13,7 @@ title                    : "LEARNING CURVE" # (edited by sriniak)
 title_separator          : "-"
 name                     : "Srinivasa Kumar" # (edited by sriniak)
 description              : "Thoughts on SAP, Fashion, Technology Trends, Data Science, Startups and 'Life-as-it-comes...'" # (edited by sriniak)
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.srinivasakumar.com"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" (edited by sriniak)
