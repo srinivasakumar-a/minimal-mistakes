@@ -1,5 +1,5 @@
 ---
-* layout: single
+layout: archive
 title: About Me
 tags: [about]
 comments: false
