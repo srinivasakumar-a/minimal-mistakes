@@ -53,6 +53,8 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default) (edited by sriniak: enabled search:true)
 
+remote_theme             : benbalter/retlab           #(Added by sriniak 20180206) (ref:https://github.com/benbalter/jekyll-remote-theme)
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -192,6 +194,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-remote-theme          #(Added by sriniak 20180206) (ref:https://github.com/benbalter/jekyll-remote-theme)
 
 # mimic GitHub Pages with --safe
 whitelist:
