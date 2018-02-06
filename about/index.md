@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: home
+author_profile: true
 title: About Me
 tags: [about]
 comments: false
